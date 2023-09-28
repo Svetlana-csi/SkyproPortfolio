@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии 
-<p> Тестирование веб-приложений: Chrome DevTools </p>  
+- Тестирование веб-приложений: Chrome DevTools
 <p> Тестирование API: Postman, Swagger</p>
 <p> Ведение тестовой документации: Jira, Case.io, Sitechco, Confluence</p>
 <p> Системы управления базами данных: PostgreSQL </p>
