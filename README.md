@@ -15,6 +15,18 @@ Jira, Case.io, Postman, PostgreSQL, REST API, SoapUI, Confluence, JSON, Sitechco
 <ol>
   <li> Написать тест-план</li>
   <li> Подготовить тестовую документацию и декомпозицию </li>
-<li>Провести тестирование</li>
+<li>Провести функциональное UI и API тестирование</li>
 <li>Написать отчет о результатах тестирования </li>
+</ol>
+<p>Как решала:</p>
+
+https://azure-calcium-178.notion.site/1-2-9970725e179b4061abec0ba56dfa3a2b?pvs=4
+
+<p>Выводы:</p>
+<ol>
+  <li>Вывод 1: </li>
+  <li>Вывод 2: </li>
+  <li>Вывод 3: </li>
+  <li>Вывод 4: </li>
+  
 </ol>
