@@ -7,7 +7,11 @@
 <br>
 
 ## Навыки и технологии 
-Jira, Case.io, Postman, PostgreSQL, REST API, SoapUI, Confluence, JSON, Sitechco, ChromeDevTools, Swagger, Trello, Charles. 
+<p> Тестирование веб-приложений: Chrome DevTools </p>  
+<p> Тестирование API: Postman, Swagger</p>
+<p> Ведение тестовой документации: Jira, Case.io, Sitechco, Confluence</p>
+<p> Системы управления базами данных: PostgreSQL </p>
+<p> Протоколы: HTTP, JSON, XML</p>
 
 ## Проекты 
 <p>Проект 1: Тестирование веб-приложения для учителей от Skyeng</p>
