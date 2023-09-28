@@ -8,10 +8,10 @@
 
 ## Навыки и технологии 
 - Тестирование веб-приложений: Chrome DevTools
-<p> Тестирование API: Postman, Swagger</p>
-<p> Ведение тестовой документации: Jira, Case.io, Sitechco, Confluence</p>
-<p> Системы управления базами данных: PostgreSQL </p>
-<p> Протоколы: HTTP, JSON, XML</p>
+- Тестирование API: Postman, Swagger
+- Ведение тестовой документации: Jira, Case.io, Sitechco, Confluence
+-  Системы управления базами данных: PostgreSQL
+- Протоколы: HTTP, JSON, XML
 
 ## Проекты 
 <p>Проект 1: Тестирование веб-приложения для учителей от Skyeng</p>
