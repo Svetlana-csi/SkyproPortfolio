@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии 
-Jira, Case.io, Postman, REST API, SoapUI, Confluence, JSON, Sitechco, ChromeDevTools, Swagger, Trello, Charles. 
+Jira, Case.io, Postman, PostgreSQL, REST API, SoapUI, Confluence, JSON, Sitechco, ChromeDevTools, Swagger, Trello, Charles. 
 
 ## Проекты 
 <p>Проект 1: тест веб-приложение для учителей от Skyeng</p>
