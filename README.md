@@ -20,7 +20,7 @@ Jira, Case.io, Postman, PostgreSQL, REST API, SoapUI, Confluence, JSON, Sitechco
 </ol>
 <p>Как решала:</p>
 
-[Ссылка на проект](https://azure-calcium-178.notion.site/1-2-9970725e179b4061abec0ba56dfa3a2b?pvs=4)
+[Ссылка на проект] (https://azure-calcium-178.notion.site/1-2-9970725e179b4061abec0ba56dfa3a2b?pvs=4)
 
 <p>Выводы:</p>
 <ol>
