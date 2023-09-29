@@ -63,3 +63,5 @@
                                                          
 ## Контактная информация 
 <p>E-mail: svetachrmnkh@gmail.com</p>
+<p>https://t.me/sveta_chrmnkh</p>
+<p>+79226541138</p>
